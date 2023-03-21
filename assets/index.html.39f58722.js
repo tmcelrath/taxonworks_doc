@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as r,a as e,b as t}from"./app.0d17f42f.js";const o={},c=e("h1",{id:"el-panorama-general",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#el-panorama-general","aria-hidden":"true"},"#"),t(" El panorama general")],-1),s=[c];function l(_,d){return n(),r("div",null,s)}const h=a(o,[["render",l],["__file","index.html.vue"]]);export{h as default};

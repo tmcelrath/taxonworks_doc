@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28652d1a","path":"/es/develop/","title":"Desarrollar","lang":"es-ES","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1636727752000,"contributors":[{"name":"José Luis Pereira","email":"pepelui@outlook.com","commits":1}]},"filePathRelative":"es/develop/README.md"}');export{e as data};
