@@ -98,7 +98,8 @@ For these **occurrence datasets** one needs to map each term to be imported. Thi
   
   For example, in your collection of physical objects, your catalog numbers may have duplicates if your specimens have come from other instituion collections in the past. Creating namespaces in TW is simple to do, but spending some time on this before upload can simplify the process. Namespaces also need to be unique in your TW Project (first-come, first-served). [NEED EXAMPLES here].
 - In addition, if your dataset has terms not mappable to TW concepts or the DwC terms we currently support, you will need to create custom "Data Attributes." These need to be created before upload (ideally). If you don't, then records with these data will not upload but are easy for you to address after other records import.
-- For some **biocuration** data in TW you may find you need to add the group and accepted values for a given class before upload (e.g. group=caste and class=queen).
+- For some **biocuration** data in TW you may find you need to add the group and accepted values for a given class before upload (e.g. group=caste and class=queen OR group=sex and class=female).
+- For some **preparation** data in TW you should attempt to match your preparation classes to the ones already in your TaxonWorks instance. For example, a pinned insect would correspond to the preparation type "Pinned." You can find these in the data tab "Preparations." 
 
 ### DwC terms mappings
 Next please note the dwc terms that TW currently recognizes. Also see examples below for how to map to existing TW terms, custom data attributes, and biocuration information.
